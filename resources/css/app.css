@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.v-card .card{
+    padding-top: 200px;
+}
+.sidebar-title > .v-list-subheader__text {
+    font-weight: bold;
+    color: black;
+    font-size: large;
+}
